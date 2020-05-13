@@ -1,0 +1,6 @@
+source: 
+  git:
+    url: https://github.com/sreeramsunkara/pb-user-service.git
+    revision: master
+image:
+  tag: sreeramsunkara/pb-user-service
